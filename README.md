@@ -1,1 +1,1 @@
-# Awesome-Large-Biology-Model
+# Awesome-Large-Biology-Models
