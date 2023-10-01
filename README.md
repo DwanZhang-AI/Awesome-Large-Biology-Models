@@ -24,3 +24,9 @@
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 
+
+# Awesome Datasets
+
+## Datasets
+|  Name   |   Paper  |   Data type   |   Link   |   Notes   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
