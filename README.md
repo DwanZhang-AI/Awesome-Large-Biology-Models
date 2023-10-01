@@ -19,3 +19,8 @@
 ## Protein models
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+
+## Biology text models
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+
