@@ -26,7 +26,7 @@
 ## Biology text models
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**BioGPT: generative pre-trained transformer for biomedical text generation and mining**]([https://academic.oup.com/bioinformatics/article/37/15/2112/6128680](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511)) | Briefings in Bioinformatics | 2022-12-24 | [Github](https://github.com/microsoft/BioGPT) | - |
+| [**BioGPT: generative pre-trained transformer for biomedical text generation and mining**](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511) | Briefings in Bioinformatics | 2022-12-24 | [Github](https://github.com/microsoft/BioGPT) | - |
 
 
 # Awesome Datasets
