@@ -4,7 +4,7 @@
 ## DNA models
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|[**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) <br>| Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - |
+| [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) <br>| Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - |
 
 
 ## RNA models
