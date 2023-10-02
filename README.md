@@ -1,5 +1,18 @@
 # Awesome Large Biology Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+---
+
+<font size=5><center><b> Table of Contents </b> </center></font>
+- [Awesome Papers](#awesome-papers)
+  - [DNA Models](#dna-models)
+  - [RNA Models](#rna-models)
+  - [Single-cell Models](#single-cell-models)
+  - [Protein Models](#protein-models)
+  - [Biology Text Models](#biology-text-models)
+- [Awesome Datasets](#awesome-datasets)
+  - [DNA Datasets](#dna-datasets)
+---
+
 ## Awesome Papers
 
 ### DNA models
@@ -37,7 +50,7 @@
 
 ## Awesome Datasets
 
-### Datasets
+### DNA Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| GUE: Genome Understanding Evaluation | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/pdf/2306.15006) | DNA | [link](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) | - |
+| GUE: Genome Understanding Evaluation | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/pdf/2306.15006) | classification | [link](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) | - |
