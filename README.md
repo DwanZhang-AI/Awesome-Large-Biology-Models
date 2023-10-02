@@ -66,7 +66,7 @@
 ### DNA Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| Genome Understanding Evaluation (GUE) | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/abs/2306.15006) | classification | [Link](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) | - |
+| Genome Understanding Evaluation (GUE) | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/abs/2306.15006) | sequence classification | [Link](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) | - |
 
 
 ### RNA Datasets
