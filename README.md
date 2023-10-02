@@ -6,8 +6,8 @@
 - [Awesome Papers](#awesome-papers)
   - [DNA Models](#dna-models)
   - [RNA Models](#rna-models)
-  - [Single-cell Models](#single-cell-models)
   - [Protein Models](#protein-models)
+  - [Single-cell Models](#single-cell-models)
   - [Biology Text Models](#biology-text-models)
 - [Awesome Datasets](#awesome-datasets)
   - [DNA Datasets](#dna-datasets)
@@ -25,8 +25,6 @@
 | [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) <br>| Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - |
 
 
-
-
 ### RNA models
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -34,15 +32,15 @@
 | [**CodonBERT: Large Language Models for mRNA Design and Optimization**](https://www.biorxiv.org/content/biorxiv/early/2023/09/12/2023.09.09.556981.full.pdf) | Arxiv | 2023-09-09 | - | - |
 
 
-### Single cell models
-|  Title  |   Venue  |   Date   |   Code   |   Data   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| [**scgpt: Towards building a foundation model for single-cell multi-omics using generative ai**](https://www.biorxiv.org/content/biorxiv/early/2023/05/01/2023.04.30.538439.full.pdf) | Arxiv | 2023-04-30 | [Github](https://github.com/bowang-lab/scGPT) | - |
-
 ### Protein models
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**De novo design of protein structure and function with RFdiffusion**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | Nature | 2023-07-11 | [Github](https://github.com/RosettaCommons/RFdiffusion) | - |
+
+### Single cell models
+|  Title  |   Venue  |   Date   |   Code   |   Data   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**scgpt: Towards building a foundation model for single-cell multi-omics using generative ai**](https://www.biorxiv.org/content/biorxiv/early/2023/05/01/2023.04.30.538439.full.pdf) | Arxiv | 2023-04-30 | [Github](https://github.com/bowang-lab/scGPT) | - |
 
 ### Biology text models
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
