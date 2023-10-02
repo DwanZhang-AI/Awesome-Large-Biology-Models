@@ -5,7 +5,10 @@
 ### DNA models
 |  Title  |   Venue  |   Date   |   Code   |   Data   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks**](https://arxiv.org/abs/2307.05628) <br>| Arxiv | 2023-09-30 | [Github](https://github.com/TencentAILabHealthcare/DNAGPT) | - |
 | [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) <br>| Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - |
+
+
 
 
 ### RNA models
