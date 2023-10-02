@@ -47,6 +47,8 @@
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**scgpt: Towards building a foundation model for single-cell multi-omics using generative ai**](https://www.biorxiv.org/content/biorxiv/early/2023/05/01/2023.04.30.538439.full.pdf) | Arxiv | 2023-04-30 | [Github](https://github.com/bowang-lab/scGPT) | - |
+| [**scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**](https://www.nature.com/articles/s42256-022-00534-z) | Nature Machine Intelligence | 2023-09-26 | [Github](https://github.com/TencentAILabHealthcare/scBERT) | - |
+
 
 ### Biological Text Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
