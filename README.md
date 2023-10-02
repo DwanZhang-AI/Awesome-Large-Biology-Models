@@ -11,6 +11,10 @@
   - [Biology Text Models](#biology-text-models)
 - [Awesome Datasets](#awesome-datasets)
   - [DNA Datasets](#dna-datasets)
+  - [RNA Datasets](#rna-datasets)
+  - [Protein Datasets](#protein-datasets)
+  - [Single-cell Datasets](#single-cell-datasets)
+  - [Biology Text Datasets](#biology-text-datasets)
 ---
 
 ## Awesome Papers
