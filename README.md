@@ -22,6 +22,7 @@
 | [**Hyenadna: Long-range genomic sequence modeling at single nucleotide resolution**](https://arxiv.org/pdf/2306.15794.pdf) <br>| Arxiv | 2023-06-27 | [Github](https://github.com/HazyResearch/hyena-dna) | - |
 | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/pdf/2306.15006) <br>| Arxiv | 2023-06-26 | [Github](https://github.com/Zhihan1996/DNABERT_2) | [GUE](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) |
 | [**The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics**](https://www.biorxiv.org/content/biorxiv/early/2023/03/09/2023.01.11.523679.full.pdf) <br>| BioRxiv | 2023-06-27 | [Github](https://github.com/instadeepai/nucleotide-transformer) | - |
+| [**Effective gene expression prediction from sequence by integrating long-range interactions**](https://www.nature.com/articles/s41592-021-01252-x) <br>| Nature Methods | 2021-10-04 | [Github](https://github.com/deepmind/deepmind-research/tree/master/enformer) | - |
 | [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) <br>| Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - |
 
 
