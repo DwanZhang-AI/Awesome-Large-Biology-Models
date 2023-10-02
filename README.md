@@ -62,9 +62,19 @@
 
 
 ### RNA Datasets
+|  Name   |   Paper  |   Data type   |   Link   |   Notes   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| Genotype-Tissue Expression (GTEx) | [**The GTEx Consortium atlas of genetic regulatory effects across human tissues**](https://www.science.org/doi/full/10.1126/science.aaz1776#editor-abstract) | comprehensive | [Link](https://www.gtexportal.org/home/) | - |
+
 
 ### Protein Datasets
+|  Name   |   Paper  |   Data type   |   Link   |   Notes   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ### Single-cell Datasets
+|  Name   |   Paper  |   Data type   |   Link   |   Notes   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ### Biology text Datasets
+|  Name   |   Paper  |   Data type   |   Link   |   Notes   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
