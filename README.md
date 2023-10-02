@@ -8,14 +8,14 @@
   - [RNA Models](#rna-models)
   - [Protein Models](#protein-models)
   - [Single-cell Models](#single-cell-models)
-  - [Biology Text Models](#biology-text-models)
+  - [Biological Text Models](#biological-text-models)
 - [Awesome Datasets](#awesome-datasets)
   - [General Datasets](#general-datasets) 
   - [DNA Datasets](#dna-datasets)
   - [RNA Datasets](#rna-datasets)
   - [Protein Datasets](#protein-datasets)
   - [Single-cell Datasets](#single-cell-datasets)
-  - [Biology Text Datasets](#biology-text-datasets)
+  - [Biological Text Datasets](#biological-text-datasets)
 ---
 
 ## Awesome Papers and Codes
@@ -48,7 +48,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**scgpt: Towards building a foundation model for single-cell multi-omics using generative ai**](https://www.biorxiv.org/content/biorxiv/early/2023/05/01/2023.04.30.538439.full.pdf) | Arxiv | 2023-04-30 | [Github](https://github.com/bowang-lab/scGPT) | - |
 
-### Biology Text Models
+### Biological Text Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**BioGPT: generative pre-trained transformer for biomedical text generation and mining**](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511) | Briefings in Bioinformatics | 2022-12-24 | [Github](https://github.com/microsoft/BioGPT) | - |
@@ -83,6 +83,6 @@
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 
-### Biology text Datasets
+### Biological text Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
