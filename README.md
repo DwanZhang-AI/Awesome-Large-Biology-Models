@@ -60,6 +60,8 @@
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | NCBI Database | - | general | [Link](https://www.ncbi.nlm.nih.gov/) | - |
+| UCSC Database | - | general | [Link](https://genome.ucsc.edu/) | - |
+
 
 ### DNA Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
