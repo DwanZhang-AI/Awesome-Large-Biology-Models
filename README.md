@@ -10,6 +10,7 @@
   - [Single-cell Models](#single-cell-models)
   - [Biology Text Models](#biology-text-models)
 - [Awesome Datasets](#awesome-datasets)
+  - [General Datasets](#general-datasets) 
   - [DNA Datasets](#dna-datasets)
   - [RNA Datasets](#rna-datasets)
   - [Protein Datasets](#protein-datasets)
@@ -55,6 +56,11 @@
 
 ## Awesome Datasets
 
+### General Datasets
+|  Name   |   Paper  |   Data type   |   Link   |   Notes   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| NCBI Database | - | general | [Link](https://www.ncbi.nlm.nih.gov/) | - |
+
 ### DNA Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -64,7 +70,7 @@
 ### RNA Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| Genotype-Tissue Expression (GTEx) | [**The GTEx Consortium atlas of genetic regulatory effects across human tissues**](https://www.science.org/doi/full/10.1126/science.aaz1776#editor-abstract) | comprehensive | [Link](https://www.gtexportal.org/home/) | - |
+| Genotype-Tissue Expression (GTEx) | [**The GTEx Consortium atlas of genetic regulatory effects across human tissues**](https://www.science.org/doi/full/10.1126/science.aaz1776#editor-abstract) | general | [Link](https://www.gtexportal.org/home/) | - |
 
 
 ### Protein Datasets
