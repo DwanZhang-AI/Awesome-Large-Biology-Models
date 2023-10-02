@@ -21,7 +21,7 @@
 | [**DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks**](https://arxiv.org/abs/2307.05628) <br>| Arxiv | 2023-07-11 | [Github](https://github.com/TencentAILabHealthcare/DNAGPT) | - |
 | [**Hyenadna: Long-range genomic sequence modeling at single nucleotide resolution**](https://arxiv.org/pdf/2306.15794.pdf) <br>| Arxiv | 2023-06-27 | [Github](https://github.com/HazyResearch/hyena-dna) | - |
 | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/pdf/2306.15006) <br>| Arxiv | 2023-06-26 | [Github](https://github.com/Zhihan1996/DNABERT_2) | [GUE](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) |
-| [**The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics**](https://www.biorxiv.org/content/biorxiv/early/2023/03/09/2023.01.11.523679.full.pdf) <br>| Biorxiv | 2023-06-27 | [Github](https://github.com/instadeepai/nucleotide-transformer) | - |
+| [**The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics**](https://www.biorxiv.org/content/biorxiv/early/2023/03/09/2023.01.11.523679.full.pdf) <br>| BioRxiv | 2023-06-27 | [Github](https://github.com/instadeepai/nucleotide-transformer) | - |
 | [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) <br>| Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - |
 
 
