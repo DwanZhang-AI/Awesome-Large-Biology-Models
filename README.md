@@ -70,8 +70,10 @@
 ### General Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| NCBI Database | - | General | [Link](https://www.ncbi.nlm.nih.gov/) | - |
-| UCSC Database | - | General | [Link](https://genome.ucsc.edu/) | - |
+| NCBI Database | - | DNA/RNA/Protein | [Link](https://www.ncbi.nlm.nih.gov/) | - |
+| Ensembl Database | - | DNA/RNA/Protein | [Link](https://www.ensembl.org/index.html) | - |
+| UCSC Database | - | DNA/RNA | [Link](https://genome.ucsc.edu/) | - |
+
 
 
 ### DNA Datasets
