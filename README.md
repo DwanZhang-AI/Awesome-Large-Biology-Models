@@ -45,7 +45,7 @@
 | [**Genome-wide prediction of disease variant effects with a deep protein language model**](https://www.nature.com/articles/s41588-023-01465-0) | Nature Genetics | 2023-08-10 | [Github](https://github.com/ntranoslab/esm-variants) | Sequence |
 | [**De novo design of protein structure and function with RFdiffusion**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | Nature | 2023-07-11 | [Github](https://github.com/RosettaCommons/RFdiffusion) | Structure |
 | [**xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein**](https://www.biorxiv.org/content/biorxiv/early/2023/07/11/2023.07.05.547496.full.pdf) | Arxiv | 2022-07-05 | - | Sequence |
-| [**OntoProtein: Protein Pretraining With Gene Ontology Embedding**](https://arxiv.org/pdf/2201.11147.pdf) | ICLR2022 | 2022-06-30 | [Github](https://github.com/zjunlp/OntoProtein) | Sequence |
+| [**OntoProtein: Protein Pretraining With Gene Ontology Embedding**](https://arxiv.org/pdf/2201.11147.pdf) | ICLR22 | 2022-06-30 | [Github](https://github.com/zjunlp/OntoProtein) | Sequence |
 
 ### Single-cell Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
