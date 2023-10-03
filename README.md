@@ -36,6 +36,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**An RNA foundation model enables discovery of disease mechanisms and candidate therapeutics**](https://www.biorxiv.org/content/10.1101/2023.09.20.558508v1.full.pdf) | BioRxiv | 2023-09-26 | - | - |
 | [**CodonBERT: Large Language Models for mRNA Design and Optimization**](https://www.biorxiv.org/content/biorxiv/early/2023/09/12/2023.09.09.556981.full.pdf) | Arxiv | 2023-09-09 | - | - |
+| [**Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction**](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.01.31.526427.full.pdf) | Arxiv | 2023-01-31 | [Github](https://github.com/biomed-AI/SpliceBERT) | - |
 
 
 ### Protein Models
