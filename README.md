@@ -23,7 +23,7 @@
 ### DNA Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**EpiGePT: a Pretrained Transformer model for epigenomics**](https://arxiv.org/abs/2307.05628) | BioArxiv | 2023-07-11 | [Website](https://health.tsinghua.edu.cn/epigept/) | - |
+| [**EpiGePT: a Pretrained Transformer model for epigenomics**](https://arxiv.org/abs/2307.05628) | BioArxiv | 2023-07-15 | [Website](https://health.tsinghua.edu.cn/epigept/) | - |
 | [**DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks**](https://arxiv.org/abs/2307.05628) | Arxiv | 2023-07-11 | [Github](https://github.com/TencentAILabHealthcare/DNAGPT) | - |
 | [**Hyenadna: Long-range genomic sequence modeling at single nucleotide resolution**](https://arxiv.org/abs/2306.15794) | Arxiv | 2023-06-27 | [Github](https://github.com/HazyResearch/hyena-dna) | - |
 | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/abs/2306.15006) | Arxiv | 2023-06-26 | [Github](https://github.com/Zhihan1996/DNABERT_2) | [GUE](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) |
