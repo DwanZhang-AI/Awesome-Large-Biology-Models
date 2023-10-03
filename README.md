@@ -41,7 +41,7 @@
 ### Protein Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Genome-wide prediction of disease variant effects with a deep protein language model**](https://www.nature.com/articles/s41588-023-01465-0) | Nature Genetics | 2023-08-10 | [Github]([https://github.com/RosettaCommons/RFdiffusion](https://github.com/ntranoslab/esm-variants)) | Variant |
+| [**Genome-wide prediction of disease variant effects with a deep protein language model**](https://www.nature.com/articles/s41588-023-01465-0) | Nature Genetics | 2023-08-10 | [Github](https://github.com/ntranoslab/esm-variants) | Variant |
 | [**De novo design of protein structure and function with RFdiffusion**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | Nature | 2023-07-11 | [Github](https://github.com/RosettaCommons/RFdiffusion) | Structure |
 
 ### Single-cell Models
