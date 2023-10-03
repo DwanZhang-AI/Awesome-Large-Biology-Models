@@ -69,30 +69,33 @@
 ### General Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| NCBI Database | - | general | [Link](https://www.ncbi.nlm.nih.gov/) | - |
-| UCSC Database | - | general | [Link](https://genome.ucsc.edu/) | - |
+| NCBI Database | - | General | [Link](https://www.ncbi.nlm.nih.gov/) | - |
+| UCSC Database | - | General | [Link](https://genome.ucsc.edu/) | - |
 
 
 ### DNA Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| Genome Understanding Evaluation (GUE) | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/abs/2306.15006) | sequence classification | [Link](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) | - |
+| Genome Understanding Evaluation (GUE) | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/abs/2306.15006) | Sequence Classification | [Link](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) | - |
 
 
 ### RNA Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| Genotype-Tissue Expression (GTEx) | [**The GTEx Consortium atlas of genetic regulatory effects across human tissues**](https://www.science.org/doi/full/10.1126/science.aaz1776#editor-abstract) | general | [Link](https://www.gtexportal.org/home/) | - |
+| Genotype-Tissue Expression (GTEx) | [**The GTEx Consortium atlas of genetic regulatory effects across human tissues**](https://www.science.org/doi/full/10.1126/science.aaz1776#editor-abstract) | General | [Link](https://www.gtexportal.org/home/) | - |
 
 
 ### Protein Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+TBD
 
 ### Single-cell Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+TBD
 
 ### Biological text Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+TBD
