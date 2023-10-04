@@ -86,6 +86,7 @@
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | Genotype-Tissue Expression (GTEx) | [**The GTEx Consortium atlas of genetic regulatory effects across human tissues**](https://www.science.org/doi/full/10.1126/science.aaz1776#editor-abstract) | General | [Link](https://www.gtexportal.org/home/) | - |
+| (Master database of All possible RNA sequences (MARS) | [**The Master Database of All Possible RNA Sequences and Its Integration with RNAcmap for RNA Homology Search**](https://www.biorxiv.org/content/10.1101/2023.02.01.526559v1.full.pdf) | General | [Link](http://zhouyq-lab.szbl.ac.cn/download/) | - |
 
 
 ### Protein Datasets
