@@ -23,6 +23,7 @@
 ### DNA Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation**]([https://arxiv.org/abs/2307.05628](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1) | BioArxiv | 2023-09-01 | - | - |
 | [**EpiGePT: a Pretrained Transformer model for epigenomics**](https://arxiv.org/abs/2307.05628) | BioArxiv | 2023-07-15 | [Website](https://health.tsinghua.edu.cn/epigept/) | - |
 | [**DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks**](https://arxiv.org/abs/2307.05628) | Arxiv | 2023-07-11 | [Github](https://github.com/TencentAILabHealthcare/DNAGPT) | - |
 | [**Hyenadna: Long-range genomic sequence modeling at single nucleotide resolution**](https://arxiv.org/abs/2306.15794) | Arxiv | 2023-06-27 | [Github](https://github.com/HazyResearch/hyena-dna) | - |
