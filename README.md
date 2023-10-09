@@ -83,9 +83,9 @@
 | NCBI Database | - | DNA/RNA/Protein | [Link](https://www.ncbi.nlm.nih.gov/) | - |
 | Ensembl Database | - | DNA/RNA/Protein | [Link](https://www.ensembl.org/index.html) | - |
 | UCSC Database | - | DNA/RNA | [Link](https://genome.ucsc.edu/) | - |
-| RCSB PDB Database | - | Protein | [Link](https://www.rcsb.org/) | - |
+| RCSB PDB Database | - | Protein | [Link](https://www.rcsb.org/) | Structure |
 | Uniprot Database | - | Protein | [Link](https://www.uniprot.org/) | - |
-| STRING Database | - | Protein | [Link](https://string-db.org/) | - |
+| STRING Database | - | Protein | [Link](https://string-db.org/) | PPI |
 
 
 ### DNA Datasets
