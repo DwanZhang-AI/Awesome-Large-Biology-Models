@@ -23,8 +23,8 @@
 ### DNA Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation**](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1) | BioArxiv | 2023-09-01 | - | - |
-| [**EpiGePT: a Pretrained Transformer model for epigenomics**](https://arxiv.org/abs/2307.05628) | BioArxiv | 2023-07-15 | [Website](https://health.tsinghua.edu.cn/epigept/) | - |
+| [**Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation**](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1) | BioRxiv | 2023-09-01 | - | - |
+| [**EpiGePT: a Pretrained Transformer model for epigenomics**](https://arxiv.org/abs/2307.05628) | BioRxiv | 2023-07-15 | [Website](https://health.tsinghua.edu.cn/epigept/) | - |
 | [**DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks**](https://arxiv.org/abs/2307.05628) | Arxiv | 2023-07-11 | [Github](https://github.com/TencentAILabHealthcare/DNAGPT) | - |
 | [**Hyenadna: Long-range genomic sequence modeling at single nucleotide resolution**](https://arxiv.org/abs/2306.15794) | Arxiv | 2023-06-27 | [Github](https://github.com/HazyResearch/hyena-dna) | [Blog](https://hazyresearch.stanford.edu/blog/2023-06-29-hyena-dna) |
 | [**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome**](https://arxiv.org/abs/2306.15006) | Arxiv | 2023-06-26 | [Github](https://github.com/Zhihan1996/DNABERT_2) | [GUE](https://drive.google.com/file/d/1GRtbzTe3UXYF1oW27ASNhYX3SZ16D7N2/view?usp=sharing) |
