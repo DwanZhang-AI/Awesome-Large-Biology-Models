@@ -53,7 +53,7 @@
 | [**Accurate proteome-wide missense variant effect prediction with AlphaMissense**](https://www.science.org/doi/10.1126/science.adg7492) | Science | 2023-09-19 | [Github](https://github.com/google-deepmind/alphamissense) | Sequence |
 | [**Evolutionary-scale prediction of atomic-level protein structure with a language model**](https://www.science.org/doi/10.1126/science.ade2574) | Science | 2023-03-23 | [Github](https://github.com/facebookresearch/esm) | Sequence |
 | [**Protein complex prediction with AlphaFold-Multimer**](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2) | BioArxiv | 2022-03-10 | [Github](https://github.com/jcheongs/alphafold-multimer) | Sequence |
-| [**ProtGPT2 is a deep unsupervised language model for protein design**](https://www.nature.com/articles/s41467-022-32007-7) | Nature Communications | 2022-07-27 | [Github]| Sequence |
+| [**ProtGPT2 is a deep unsupervised language model for protein design**](https://www.nature.com/articles/s41467-022-32007-7) | Nature Communications | 2022-07-27 | - | Sequence |
 | [**ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning**](https://ieeexplore.ieee.org/document/9477085) | IEEE Transactions on Pattern Analysis and Machine Intelligence | 2022-10-01 | [Github](https://github.com/agemagician/ProtTrans) | Sequence |
 
 
@@ -82,7 +82,9 @@
 | NCBI Database | - | DNA/RNA/Protein | [Link](https://www.ncbi.nlm.nih.gov/) | - |
 | Ensembl Database | - | DNA/RNA/Protein | [Link](https://www.ensembl.org/index.html) | - |
 | UCSC Database | - | DNA/RNA | [Link](https://genome.ucsc.edu/) | - |
-
+| RCSB PDB Database | - | Protein | [Link](https://www.rcsb.org/) | - |
+| Uniprot Database | - | Protein | [Link](https://www.uniprot.org/) | - |
+| STRING Database | - | Protein | [Link](https://string-db.org/) | - |
 
 
 ### DNA Datasets
