@@ -104,7 +104,8 @@
 ### Protein Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-TBD
+| MGnify | [**MGnify: the microbiome sequence data analysis resource in 2023**](https://academic.oup.com/nar/article/51/D1/D753/6880769) | General | [Link](https://www.ebi.ac.uk/metagenomics) | Protein sequence library for microbiome data |
+| UniRef | [**UniRef: comprehensive and non-redundant UniProt reference clusters**](https://academic.oup.com/nar/article/51/D1/D753/6880769) | General | [Link](https://www.uniprot.org/uniref?query=*) | UniProt reference clusters  |
 
 ### Single-cell Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
