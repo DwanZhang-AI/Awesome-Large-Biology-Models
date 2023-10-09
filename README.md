@@ -47,7 +47,7 @@
 ### Protein Models
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Accurate proteome-wide missense variant effect prediction with AlphaMissense**](https://www.science.org/doi/10.1126/science.adg7492) | Science | 2023-09-19 | [Github](https://github.com/google-deepmind/alphamissense) | Structure |
+| [**Accurate proteome-wide missense variant effect prediction with AlphaMissense**](https://www.science.org/doi/10.1126/science.adg7492) | Science | 2023-09-19 | [Github](https://github.com/google-deepmind/alphamissense) | - |
 | [**Genome-wide prediction of disease variant effects with a deep protein language model**](https://www.nature.com/articles/s41588-023-01465-0) | Nature Genetics | 2023-08-10 | [Github](https://github.com/ntranoslab/esm-variants) | Sequence |
 | [**De novo design of protein structure and function with RFdiffusion**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | Nature | 2023-07-11 | [Github](https://github.com/RosettaCommons/RFdiffusion) | Structure |
 | [**Evolutionary-scale prediction of atomic-level protein structure with a language model**](https://www.science.org/doi/10.1126/science.ade2574) | Science | 2023-03-23 | [Github](https://github.com/facebookresearch/esm) | Sequence/Structure |
