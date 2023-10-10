@@ -107,7 +107,9 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | MGnify | [**MGnify: the microbiome sequence data analysis resource in 2023**](https://academic.oup.com/nar/article/51/D1/D753/6880769) | General | [Link](https://www.ebi.ac.uk/metagenomics) | Protein sequence library for microbiome data |
 | UniRef | [**UniRef: comprehensive and non-redundant UniProt reference clusters**](https://academic.oup.com/nar/article/51/D1/D753/6880769) | General | [Link](https://www.uniprot.org/uniref?query=*) | UniProt reference clusters  |
-| AlphaFoldDB | [**AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models**](https://academic.oup.com/nar/article/50/D1/D439/6430488?login=false) | General | [Link](https://alphafold.ebi.ac.uk/) | produced by DeepMind's AlphaFold  |
+| AlphaFoldDB | [**AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models**](https://academic.oup.com/nar/article/50/D1/D439/6430488?login=false) | Structure | [Link](https://alphafold.ebi.ac.uk/) | produced by DeepMind's AlphaFold  |
+| SidechainNet | [**An All-Atom Protein Structure Dataset for Machine Learning**](https://arxiv.org/abs/2010.08162) | Structure | [Link](https://alphafold.ebi.ac.uk/) | An All-Atom Protein Structure Dataset  |
+
 
 ### Single-cell Datasets
 |  Name   |   Paper  |   Data type   |   Link   |   Notes   |
