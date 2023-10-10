@@ -55,6 +55,7 @@
 | [**ProtGPT2 is a deep unsupervised language model for protein design**](https://www.nature.com/articles/s41467-022-32007-7) | Nature Communications | 2022-07-27 | - | Sequence |
 | [**xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein**](https://www.biorxiv.org/content/biorxiv/early/2023/07/11/2023.07.05.547496.full.pdf) | Arxiv | 2022-07-05 | - | Sequence |
 | [**OntoProtein: Protein Pretraining With Gene Ontology Embedding**](https://arxiv.org/pdf/2201.11147.pdf) | ICLR22 | 2022-06-30 | [Github](https://github.com/zjunlp/OntoProtein) | Sequence |
+| [**ProGen2: Exploring the Boundaries of Protein Language Models**](https://arxiv.org/abs/2206.13517) | Arxiv | 2022-06-27 | [Github](https://github.com/salesforce/progen) | Sequence |
 | [**Protein complex prediction with AlphaFold-Multimer**](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2) | BioArxiv | 2022-03-10 | [Github](https://github.com/jcheongs/alphafold-multimer) | Structure |
 
 
