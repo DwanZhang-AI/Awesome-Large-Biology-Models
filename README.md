@@ -32,7 +32,7 @@
 | [**The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics**](https://www.biorxiv.org/content/biorxiv/early/2023/03/09/2023.01.11.523679.full.pdf) | BioRxiv | 2023-01-11 | [Github](https://github.com/instadeepai/nucleotide-transformer) | - |
 | [**GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics**](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v1)| BioRxiv | 2022-10-11 | - | - |
 | [**Effective gene expression prediction from sequence by integrating long-range interactions**](https://www.nature.com/articles/s41592-021-01252-x) | Nature Methods | 2021-10-04 | [Github](https://github.com/deepmind/deepmind-research/tree/master/enformer) | - |
-| [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | Bioinformatics | 2021-02-04 | [Github](https://github.com/jerryji1993/DNABERT) | - |
+| [**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome**](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | Bioinformatics | 2023-09-16 | [Github](https://github.com/jerryji1993/DNABERT) | - |
 
 
 ### RNA Models
@@ -42,6 +42,7 @@
 | [**CodonBERT: Large Language Models for mRNA Design and Optimization**](https://www.biorxiv.org/content/biorxiv/early/2023/09/12/2023.09.09.556981.full.pdf) | Arxiv | 2023-09-09 | - | - |
 | [**UNI-RNA: UNIVERSAL PRE-TRAINED MODELS REVOLUTIONIZE RNA RESEARCH**](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548588.full.pdf) | BioArxiv | 2023-07-11 | - | - |
 | [**Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction**](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.01.31.526427.full.pdf) | Arxiv | 2023-01-31 | [Github](https://github.com/biomed-AI/SpliceBERT) | - |
+| [**Integrating end-to-end learning with deep geometrical potentials for ab initio RNA structure prediction**](https://www.nature.com/articles/s41467-023-41303-9.pdf) | nature communications | 2023-07-11 |  [Github](https://zhanggroup.org/DRfold/ and https://github.com/leeyang/DRfold) | structure |
 
 
 ### Protein Models
