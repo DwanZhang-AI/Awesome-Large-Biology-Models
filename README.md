@@ -43,6 +43,7 @@
 | [**UNI-RNA: UNIVERSAL PRE-TRAINED MODELS REVOLUTIONIZE RNA RESEARCH**](https://www.biorxiv.org/content/biorxiv/early/2023/07/12/2023.07.11.548588.full.pdf) | BioArxiv | 2023-07-11 | - | - |
 | [**Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction**](https://www.biorxiv.org/content/biorxiv/early/2023/05/09/2023.01.31.526427.full.pdf) | Arxiv | 2023-01-31 | [Github](https://github.com/biomed-AI/SpliceBERT) | - |
 | [**Integrating end-to-end learning with deep geometrical potentials for ab initio RNA structure prediction**](https://www.nature.com/articles/s41467-023-41303-9.pdf) | nature communications | 2023-09-16 |  [Github](https://github.com/leeyang/DRfold) | structure |
+| [**Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions**](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v1.full.pdf) | BioArxiv | 2022-08-07 |  [Github](https://github.com/ml4bio/RNA-FM) | ncRNA/UTR |
 
 
 ### Protein Models
