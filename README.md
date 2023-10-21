@@ -112,6 +112,7 @@
 | AlphaFoldDB | [**AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models**](https://academic.oup.com/nar/article/50/D1/D439/6430488?login=false) | Structure | [Link](https://alphafold.ebi.ac.uk/) | produced by DeepMind's AlphaFold  |
 | SidechainNet | [**An All-Atom Protein Structure Dataset for Machine Learning**](https://arxiv.org/abs/2010.08162) | Structure | [Link](https://github.com/jonathanking/sidechainnet) | An All-Atom Protein Structure Dataset  |
 | Colabfold DB | [**ColabFold: making protein folding accessible to all**](https://www.nature.com/articles/s41592-022-01488-1) | sequence | [Link](https://colabfold.mmseqs.com) |   |
+| Big Fantastic Dataset (BFD) | [**-**]() | General | [Link](https://alphafold.ebi.ac.uk/) |   |
 
 
 ### Single-cell Datasets
