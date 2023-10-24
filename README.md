@@ -59,7 +59,9 @@
 | [**OntoProtein: Protein Pretraining With Gene Ontology Embedding**](https://arxiv.org/pdf/2201.11147.pdf) | ICLR22 | 2022-06-30 | [Github](https://github.com/zjunlp/OntoProtein) | Sequence |
 | [**ProGen2: Exploring the Boundaries of Protein Language Models**](https://arxiv.org/abs/2206.13517) | Arxiv | 2022-06-27 | [Github](https://github.com/salesforce/progen) | Sequence |
 | [**Protein complex prediction with AlphaFold-Multimer**](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2) | BioArxiv | 2022-03-10 | [Github](https://github.com/jcheongs/alphafold-multimer) | Structure |
-| [**A Latent Diffusion Model for Protein Structure Generation**](https://arxiv.org/abs/2305.04120) | Arxiv | 2022-05-04 | - | Structure |
+| [**A Latent Diffusion Model for Protein Structure Generation**](https://arxiv.org/abs/2305.04120) | Arxiv | 2023-05-04 | - | Structure |
+| [**Large language models generate functional protein sequences across diverse families**](https://arxiv.org/abs/2305.04120) | Nature Biotechnology | 2023-01-26 | - | Sequence |
+
 
 
 
