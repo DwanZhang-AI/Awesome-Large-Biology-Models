@@ -62,6 +62,7 @@
 | [**A Latent Diffusion Model for Protein Structure Generation**](https://arxiv.org/abs/2305.04120) | Arxiv | 2023-05-04 | - | Structure |
 | [**Large language models generate functional protein sequences across diverse families**](https://www.nature.com/articles/s41587-022-01618-2) | Nature Biotechnology | 2023-01-26 | - | Sequence |
 | [**Large language models improve annotation of viral proteins**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10187409/) | Preprint | 2023-05-02 | - | - |
+| [**Exploring the Protein Sequence Space with Global Generative Models**](https://cshperspectives.cshlp.org/content/early/2023/10/16/cshperspect.a041471.abstract) | cshperspect | 2023-10-16 | - | - |
 
 
 
