@@ -85,6 +85,7 @@
 | [**GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153281/) | Preprint | 2023-05-16 | [Github](https://github.com/ncbi/GeneGPT) | - |
 | [**BioGPT: generative pre-trained transformer for biomedical text generation and mining**](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511) | Briefings in Bioinformatics | 2022-12-24 | [Github](https://github.com/microsoft/BioGPT) | - |
 | [**Large language models in biomedical natural language processing: benchmarks, baselines, and recommendations**](https://arxiv.org/abs/2305.16326) | ArXiv | 2022-05-03 | [Github](https://github.com/qingyu-qc/gpt_bionlp_benchmark) | - |
+| [**BioBERT: a pre-trained biomedical language representation model for biomedical text mining**](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506) | Bioinformatics | 2019-09-10 | [Github](https://github.com/dmis-lab/biobert) | - |
 
 
 
