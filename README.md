@@ -44,6 +44,8 @@
 | [**Integrating end-to-end learning with deep geometrical potentials for ab initio RNA structure prediction**](https://www.nature.com/articles/s41467-023-41303-9.pdf) | nature communications | 2023-09-16 |  [Github](https://github.com/leeyang/DRfold) | structure |
 | [**Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions**](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v1.full.pdf) | BioArxiv | 2022-08-07 |  [Github](https://github.com/ml4bio/RNA-FM) | ncRNA/UTR |
 | [**Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction**](https://www.biorxiv.org/content/10.1101/2023.01.31.526427v1.full.pdf) | BioArxiv | 2023-02-03 |  [Github](https://github.com/biomed-AI/SpliceBERT) | pre-mRNA/mRNA Splicing |
+| [**Design of prime-editing guide RNAs with deep transfer learning**](https://www.nature.com/articles/s42256-023-00739-w) | Nature Machine Intelligence | 2023-10-26 | - | pre-mRNA/mRNA Splicing |
+
 
 
 ### Protein Models
