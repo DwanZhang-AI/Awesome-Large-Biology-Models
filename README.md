@@ -66,10 +66,7 @@
 | [**Large language models improve annotation of viral proteins**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10187409/) | Preprint | 2023-05-02 | - | - |
 | [**Exploring the Protein Sequence Space with Global Generative Models**](https://cshperspectives.cshlp.org/content/early/2023/10/16/cshperspect.a041471.abstract) | cshperspect | 2023-10-16 | - | - |
 | [**Atom-by-atom protein generation and beyond with language models**](https://arxiv.org/abs/2308.09482) | ArXiv | 2023-08-16 | - | - |
-
-
-
-
+| [**SaLT&PepPr is an interface-predicting language model for designing peptide-guided protein degraders**](https://www.nature.com/articles/s42003-023-05464-z) | Communications Biology | 2023-10-24 | - | - |
 
 
 ### Single-cell Models
